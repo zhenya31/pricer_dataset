@@ -1,0 +1,1 @@
+{"Price":6590,"Url":"https://www.e-katalog.ru/prices/bosch-mfw45020/","Name":"Bosch MFW45020","Id":849}

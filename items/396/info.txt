@@ -1,0 +1,1 @@
+{"Price":2000,"Url":"https://www.ozon.ru/context/detail/id/147443527/?utm_content=id_147443527|catid_6256\u0026is_retargeting=true\u0026utm_source=cpc_nadavi\u0026utm_campaign=msk_cargoods_mp\u0026utm_medium=cpc\u0026c=msk_cargoods_mp\u0026pid=cpc_nadavi\u0026af_click_lookback=7d","Name":"Delta AT-600","Id":396}

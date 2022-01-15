@@ -1,0 +1,1 @@
+{"Price":26590,"Url":"https://mygs.ru/products/Wanhaod7","Name":"Wanhao Duplicator 7","Id":7}

@@ -1,0 +1,1 @@
+{"Price":6990,"Url":"https://www.e-katalog.ru/prices/marshall-major-iii-bluetooth/","Name":"Marshall Major III Bluetooth","Id":634}

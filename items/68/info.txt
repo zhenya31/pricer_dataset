@@ -1,0 +1,1 @@
+{"Price":79500,"Url":"https://mygs.ru/products/3d-printer-wanhao-duplicator-8","Name":"Wanhao Duplicator 8","Id":68}

@@ -1,0 +1,1 @@
+{"Price":497,"Url":"http://rc.luxtec.ru/index.php?route=product/product\u0026path=6_606\u0026product_id=27744\u0026utm_source=Nadavi","Name":"EV-Peak \u0418\u043D\u0434\u0438\u043A\u0430\u0442\u043E\u0440 \u043D\u0430\u043F\u0440\u044F\u0436\u0435\u043D\u0438\u044F \u0434\u043B\u044F 6S Lixx \u0430\u043A\u043A\u0443\u043C\u0443\u043B\u044F\u0442\u043E\u0440\u043E\u0432","Id":807}

@@ -1,0 +1,1 @@
+{"Price":1990,"Url":"https://goods.ru/catalog/details/puf-vental-pf-1-bezhevyy-100024347013/?merchantId=1899\u0026utm_source=nadavi\u0026utm_medium=pricelist\u0026utm_campaign=cpc","Name":"\u0412\u0435\u043D\u0442\u0430\u043B \u041F\u0443\u0444 Vental \u041F\u0424-1 \u0411\u0435\u0436\u0435\u0432\u044B\u0439","Id":81}
